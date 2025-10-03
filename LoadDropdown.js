@@ -79,7 +79,5 @@ blockDropdown.addEventListener("change", () => {
   }
 });
 
-// Initialize
-loadDistricts();
-
+return true;
 }
